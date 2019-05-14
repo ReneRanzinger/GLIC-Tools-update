@@ -1,33 +1,38 @@
 [
-	{
-		"tool_type": "software",
-		"name": "GRITS Toolbox",
-		"version": "1.2.3",
-		"description": "GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.",
-		"webpage": "http://www.grits-toolbox.org",
-		"code": "",
-		"license_code": "",
-		"funding": [
-			{
-				"agency": "NIGMS",
-				"grant": "8P41GM103490",
-				"url": "https://projectreporter.nih.gov/project_info_description.cfm?projectnumber=8P41GM103490-10"
-			}
-		],
-		"contact": [
-			{
-				"name": "Rene Ranzinger",
-				"email": "rene@ccrc.uga.edu",
-				"affiliation": "Complex Carbohydrate Research Center"
-			}
-		],
-		"keywords": [
-			"mass spectrometry annotation",
-			"mass spectrometry data processing"
-		],
-		"last_updage": "2019-05-13T20:49:31Z",
-		"software_type": "Stand alone application"
-	}
+   {
+      "tool_type":"software",
+      "name":"GRITS Toolbox",
+      "version":"1.2.3",
+      "description":"GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.",
+      "webpage":"http://www.grits-toolbox.org",
+      "funding":[
+         {
+            "agency":"NIGMS",
+            "grant":"8P41GM103490",
+            "url":"https://projectreporter.nih.gov/project_info_description.cfm?projectnumber=8P41GM103490-10"
+         }
+      ],
+      "contact":[
+         {
+            "name":"Rene Ranzinger",
+            "email":"rene@ccrc.uga.edu",
+            "affiliation":"Complex Carbohydrate Research Center"
+         }
+      ],
+      "keywords":[
+         "mass spectrometry annotation",
+         "mass spectrometry data processing"
+      ],
+      "last_updage":"2019-05-13T20:49:31Z",
+      "software_type":"Stand alone application",
+      "source_code":{
+         "availability":"open",
+         "url":"https://github.com/glygener",
+         "license":{
+            "name":"GNU General Public License version 2",
+            "abbr":"GPLv3",
+            "url":"https://www.gnu.org/licenses/gpl-3.0.en.html"
+         }
+      }
+   }
 ]
-
-// https://docs.google.com/document/d/1CBTsBIzqnzvBMQ5D3bkZzxjJ1zEfSI0zan1aZpD05Lk/edit

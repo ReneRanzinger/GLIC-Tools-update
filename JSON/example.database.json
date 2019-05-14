@@ -1,0 +1,61 @@
+[
+   {
+      "tool_type":"database",
+      "name":"UniCarbKB",
+      "version":"1.0b",
+      "description":"The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.",
+      "webpage":"http://unicarbkb.org",
+      "funding":[
+         {
+            "agency":"NIGMS",
+            "grant":"8P41GM103490",
+            "url":"https://projectreporter.nih.gov/project_info_description.cfm?projectnumber=8P41GM103490-10"
+         }
+      ],
+      "contact":[
+         {
+            "name":"Matthew Campbell",
+            "email":"m.campbell2@griffith.edu.au",
+            "affiliation":"Griffith University"
+         }
+      ],
+      "keywords":[
+         "glycan structure",
+         "glycoproteins",
+         "site-specific information",
+         "databases references",
+         "species",
+         "tissue",
+         "cell line"
+      ],
+      "last_updage":"2019-05-13T20:49:31Z",
+      "license_data":{
+         "name":"Attribution-NonCommercial-NoDerivs 3.0 Unported",
+         "abbr":"CC BY-NC-ND 3.0",
+         "url":"https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"
+      },
+      "source_code":{
+         "availability":"open",
+         "url":"https://github.com/glygener",
+         "license":{
+            "name":"GNU General Public License version 2",
+            "abbr":"GPLv3",
+            "url":"https://www.gnu.org/licenses/gpl-3.0.en.html"
+         }
+      },
+      "data":[
+         {
+            "type":"Glycan structures",
+            "count":3000
+         },
+         {
+            "type":"GlycoProteins",
+            "count":200
+         },
+         {
+            "type":"Glycosylation sites",
+            "count":5000
+         }
+      ]
+   }
+]

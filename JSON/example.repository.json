@@ -1,0 +1,62 @@
+[
+   {
+      "tool_type":"repository",
+      "name":"GlyTouCan",
+      "version":"1.1",
+      "description":"Glycan structure/sequence/composition repository.",
+      "webpage":"https://www.glytoucan.org",
+      "funding":[
+         {
+            "agency":" NIH Glycoscience Common Fund",
+            "grant":"1U01GM125267-01",
+            "url":"https://projectreporter.nih.gov/project_info_details.cfm?aid=9391499&icde=0"
+         }
+      ],
+      "contact":[
+         {
+            "name":"Kiyoko Aoki-Kinoshita",
+            "email":"kkiyoko@soka.ac.jp",
+            "affiliation":"Soka University"
+         },
+         {
+            "name":"Will York",
+            "email":"will@ccrc.uga.edu",
+            "affiliation":"Complex Carbohydrate Research Center"
+         }
+      ],
+      "keywords":[
+         "glycan structure",
+         "databases references",
+         "species"
+      ],
+      "last_updage":"2019-03-06T00:00:00Z",
+      "source_code":{
+         "availability":"open",
+         "url":"https://github.com/glygener",
+         "license":{
+            "name":"GNU General Public License version 2",
+            "abbr":"GPLv3",
+            "url":"https://www.gnu.org/licenses/gpl-3.0.en.html"
+         }
+      },
+      "license_data":{
+         "name":" Creative Commons Attribution 4.0 International",
+         "abbr":"CC BY 4.0",
+         "url":"https://creativecommons.org/licenses/by/4.0/"
+      },
+      "data":[
+         {
+            "type":"Glycan structures",
+            "count":3000
+         },
+         {
+            "type":"GlycoProteins",
+            "count":200
+         },
+         {
+            "type":"Glycosylation sites",
+            "count":5000
+         }
+      ]
+   }
+]
