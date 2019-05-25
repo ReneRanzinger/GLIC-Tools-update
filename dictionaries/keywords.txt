@@ -1,2 +1,9 @@
 mass spectrometry annotation
 mass spectrometry data processing
+glycan structure
+databases references
+species
+glycoproteins
+site-specific information
+tissue
+cell line

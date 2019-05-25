@@ -9,13 +9,16 @@
          {
             "agency":"NIGMS",
             "grant":"8P41GM103490",
-            "url":"https://projectreporter.nih.gov/project_info_description.cfm?projectnumber=8P41GM103490-10"
+            "url":"https://projectreporter.nih.gov/project_info_description.cfm?projectnumber=8P41GM103490-10",
+			"start":"2019-05-01T20:49:31Z",
+            "end":"2021-05-30T20:49:31Z"
          }
       ],
       "contact":[
          {
             "name":"Matthew Campbell",
             "email":"m.campbell2@griffith.edu.au",
+			"phone":"(+1)760-123-4567",
             "affiliation":"Griffith University"
          }
       ],
@@ -28,7 +31,7 @@
          "tissue",
          "cell line"
       ],
-      "last_updage":"2019-05-13T20:49:31Z",
+      "last_update":"2019-05-13T20:49:31Z",
       "license_data":{
          "name":"Attribution-NonCommercial-NoDerivs 3.0 Unported",
          "abbr":"CC BY-NC-ND 3.0",

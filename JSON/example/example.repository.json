@@ -9,13 +9,16 @@
          {
             "agency":" NIH Glycoscience Common Fund",
             "grant":"1U01GM125267-01",
-            "url":"https://projectreporter.nih.gov/project_info_details.cfm?aid=9391499&icde=0"
+            "url":"https://projectreporter.nih.gov/project_info_details.cfm?aid=9391499&icde=0",
+			"start":"2019-05-01T20:49:31Z",
+            "end":"2021-05-30T20:49:31Z"
          }
       ],
       "contact":[
          {
             "name":"Kiyoko Aoki-Kinoshita",
             "email":"kkiyoko@soka.ac.jp",
+			"phone":"(+1)760-123-4567",
             "affiliation":"Soka University"
          },
          {
@@ -29,7 +32,7 @@
          "databases references",
          "species"
       ],
-      "last_updage":"2019-03-06T00:00:00Z",
+      "last_update":"2019-03-06T00:00:00Z",
       "source_code":{
          "availability":"open",
          "url":"https://github.com/glygener",
